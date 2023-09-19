@@ -1,14 +1,5 @@
-Personal page of Sanket Rane
-============================
 
+## Theoretical immunology labortatory
 
-Sanket is a **Theoretical Immunolgist** and an ardent follower of the *Darwinian Theory of Natural Selection*. He loves using movie analogies and playing pretend while solving day-to-day puzzles and problems. Will do everything in his power to explain a complex biological or behavioral issue in the light of evolution.
-
-If you fancy challenging Sanket to a friendly Tennis match or a deathly chess battle then at once reach to him at <sanketrn@gmail.com>
-
-By now the most probable event must have ensued!
-
-
---------------------------------00---------------------------------
-
-# Rane_lab.github.io
+We strive to understand and quantify system-level variability in immune interactions and collective responses of 
+lymphocyte populations including T, B and NK cells to infections, vaccines and tumor-antigens. 
